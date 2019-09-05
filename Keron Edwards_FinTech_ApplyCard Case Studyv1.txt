@@ -1,0 +1,164 @@
+
+Sources:
+https://www.nerdwallet.com/blog/credit-cards/credit-card-interest-rates-high/
+https://www.theverge.com/2019/1/29/18202736/apple-devices-ios-earnings-q1-2019
+https://bgr.com/2019/08/20/iphone-vs-samsung-upgrades-brand-loyalty/
+https://www.sellcell.com/blog/iphone-vs-android-cell-phone-brand-loyalty-survey-2019/
+https://www.cnbc.com/2019/08/05/everything-to-know-about-the-new-apple-credit-card.html
+https://www.jeffgeerling.com/blog/2019/physical-apple-card-case-form-over-function
+https://www.forbes.com/sites/michelleevans1/2017/10/27/three-payment-trends-that-will-change-how-we-pay-in-2018/#62070c6b6c2c
+https://www.techrepublic.com/article/apple-card-a-cheat-sheet/
+https://stackshare.io/apple/apple
+https://www.pymnts.com/apple/2019/credit-card-idea-steve-jobs/
+https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Global%20payments%20Expansive%20growth%20targeted%20opportunities/Global-payments-map-2018.ashx
+https://www.pewresearch.org/global/2019/02/05/smartphone-ownership-is-growing-rapidly-around-the-world-but-not-always-equally/
+
+
+#Introducing: The Apple Card
+
+Technology can and has significantly changed how we live our lives. It's impact can be seen all facets of society, from electronic toll-booths on our highways
+to how we shop for vacations and even how we buy toolet paper (hint: on Amazon). Within the financial services we have seen sweeping changing; robo-advisors
+replacing your former financial advisor at you local bank or investment manager; shopping for your latest vacation online, removing the need to see or call a
+travel agent. 
+
+Particularly, when it comes to mobile technology, we have seen the greatest change here. it is estimated that over 5 billion people in the world have a mobile
+phone. As adoption has grown we've seen to companies providing more products and services directly to our mobile phones each year. The Apple Card is yet another
+product now available to us via our phones. 
+
+Along with its robust metrics, the Apple Card offers other features that are likely to attract people who are interested in opening a new line of credit, including:
+There are no fees associated with having an Apple Card—specifically, according to Apple, no late fees, no annual fee, no cash-advance fee, 
+and no over-the-limit fee;
+*There is no penalty for a missed payment—late or missed payments will equal additional accrued interest;
+Payments can be scheduled from the Wallet app, and when choosing a payment amount users will see how much interest they will accrue based on 
+their remaining balance;
+Buying products from Apple (via the Apple Store or App Store) will net 3% cash back, using Apple Pay with the Apple Card will reward 2% cash back, 
+and purchases with the physical card will reward 1% cash back;
+Daily Cash is one of the key features that Apple has highlighted. Cash-back rewards are added to a user's Apple Pay balance and can be used for purchases, 
+or to pay down the Apple Card's balance, or to send to other Apple Pay users via iMessage. Cash returns are calculated daily; and
+Real-time fraud protection alerts users whenever an Apple Card transaction occurs, even one they make, allowing the user to okay or block a purchase. 
+If a fraudulent charge is reported, users won't be responsible for paying.
+The physical Apple Card that users get is innovative as well: It's an obvious Apple design—minimal and built of titanium. It doesn't have an 
+expiration date, card number, CVV code, or signature on it, making theft of the card much less of a concern.
+
+
+
+
+
+Apple Card is a credit card developed by Apple Inc., designed primarily to be used with Apple Pay on Apple devices such as an iPhone, iPad, Apple Watch, or Mac.
+It was released in the United States on August 20, 2019 and launched through partnership with Goldman Sachs as the issuing bank and Mastercard as the payment 
+network provider. The credit card includes a physical card and the contactless payment version through Appple wallet. 
+
+
+
+The Apple Card addresses a key issue within credit card sector of the payments/billing industry which is high and numerous fees. 
+The Apple Card does not include late, cash advance, international, overdraft, or annual credit card fees, except for applicable interest charges when 
+carrying a balance, and any interchange fees, which are charged to the vendor. 
+
+Apple designed the Apple Card to be used almost exclusively with Apple Pay and the Wallet app. Signing up for the Apple Card is done within the Wallet app, 
+which is also where all of the Apple Card's spending metrics are displayed. You can also apply for the card right on your phone.
+
+
+
+
+
+* What specific financial problem is the company or project trying to solve?
+
+
+
+
+
+
+
+
+Why rates are so high? 
+Typically, credit cards are unsecured loans, meaning there’s no collateral — no asset the lender can take if the borrower doesn’t pay. That’s as opposed to a 
+secured credit card, which requires an upfront deposit as collateral, or loan for a house or car, which a lender can repossess and resell to get some of 
+its money back. That’s why the bank doesn’t give you the title to your car, for example, until you finish paying the auto loan. And unsecured credit card 
+balances are not backed by anybody else’s promise to pay, such as the federal government backing some student loans.
+
+* Who is the company's intended customer? 
+
+Apple currently has an active installed base of devices 1.4 billion in the first quarter, which is an all-time high and growing in each of their geographic
+segments. With the launch of this product apple takes advantage of their large captive customer base. So current apple customer is a potential credit card client.
+Unlike other credit card companies, Apple has the advantage of high customer brand loyalty. A 2019 survey by SellCell indicates that 90.5% of current Apple users
+plan to stick with Apple next time they upgrade.  
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?
+
+The Apple Card is one of the few cards that can truly be considered “no-fee.” Cardholders don’t have to pay annual fees, foreign transaction fees or late payment 
+fees, making this card beneficial for consumers who often miss payments or travel abroad. While there are no fees, you can still rack up interest on this card 
+if you don’t pay your bill in full. There is a 12.99% to 23.99% variable APR, based on your creditworthiness. Currently, the average APR for new credit cards 
+is 16.91% and that’s expected to drop some as a result of the recent Fed cuts. 
+Unlike many other credit card companies, the Apple Card creators are hoping cardholders take advantage of the card’s financial wellness tools that show users
+exactly how much it will cost if they carry a balance. What is unique to the Apple Card is the financial wellness feature that can conveniently access via the 
+their apple wallets on their phones. When you make a payment, there’s a simulation wheel with a “payment nudge” that allows you to select a payment amount and see 
+how much interest you’d be charged for the given payment. You can adjust the “nudge” and see what the interest would be if you made only the minimum payment or any
+other amount. This feature is user-friendly and represents Apple’s mission to create transparency. The Apple Card provides a detailed snapshot of your spending history
+in real-time. Purchases are categorized by color, and you can track your spending weekly or monthly. You can also see where and when you make purchases alongside 
+the transaction cost.
+
+
+The Apple Card’s privacy and security features:
+Apple uses advanced security measures to protect cardholders’ privacy. Every transaction you make with the digital Apple Card requires your device number and a 
+one‑time, dynamic security code, which is authorized via Face ID or Touch ID. Purchases made with the physical card are secured with chip technology. And, 
+the physical card has no numbers on it — no card number, security code or expiration date — making it practically impossible for someone to steal your 
+information when you hand your card to pay. If an online merchant doesn’t support Apple Pay and you need to enter your card number to complete a purchase, 
+you can access that information through the Wallet app. If you misplace your card, you have the option to freeze it and request a replacement directly from the 
+Wallet app.
+
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the 
+company’s engineering blog or use sites like Stackshare to find this information.)
+
+Apple's list of technologies currently being utilized include:
+Swift
+Objective-C
+Cocoa Touch (IOS)
+Cocoa (OS X)
+OpenStreet Map
+Framer
+Xcode
+Pingdom
+TeamCity
+
+
+
+a perfect intersection of finance and technology
+spending color coded tracking allows you to be more mindful of your spending so you can budget better.
+
+
+## Landscape:
+* What domain of the financial industry is the company in?
+
+average debt $6000
+utiliztion rate 30%
+1.5 billion credit cards
+$815 billion
+67% of the population
+iPhone u.s. users 193M
+
+The Apple Card is Apple's first entrance into the credit card industry, and with a captive consumer base of over 1.4 billion they are poised to make a big 
+splash into the industry. There is $815 billion in credit card debt in the U.S alone. With 193 million U.S. active users 
+ 
+Apple card is designed to take advantage of the power of the iPhone
+Simplicity, transparency and privacy
+getting help is easy, like messaging a friend
+
+Healthier financial life
+better understanding of your spending
+no more cryptic messages about what you've spent
+shows you how your spending is trending
+Rewards - straight forward rewards process with daily cash
+security - no card or cvv number displayed 
+receive your card in minutes via apple wallet
+private and secure 
+straight-forward details about your spending, for e.g. names and addresses. Also see how spending is trending.
+
+
+
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+* What are the other major companies in this domain?
+
+
